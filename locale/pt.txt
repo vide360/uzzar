@@ -57,4 +57,4 @@ Image_868E3C24_9A9D_D8BB_419E_62295C9678D0.url = skin/Image_868E3C24_9A9D_D8BB_4
 ### Description
 
 ### Title
-tour.name = Sem Título 36
+tour.name = Uzzar
